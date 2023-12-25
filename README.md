@@ -1,11 +1,5 @@
 <h1 align="center">Keyboard Overlay</h1>
 
-<div align="center">
-         <a href="https://github.com/Armandukx/Keyboard-Overlay/releases" target="_blank">
-        <img src="https://img.shields.io/github/downloads/Armandukx/Keyboard-Overlay/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
-    </a>
-</div>
-
 # Installation
 1. Download the [zip file](https://github.com/Armandukx/Keyboard-Overlay/raw/main/Keyboard%20Overlay.zip) (it might showup as a virus)
 2. Unzip it
