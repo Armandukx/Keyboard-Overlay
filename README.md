@@ -1,7 +1,7 @@
 # Keyboard-Overlay
 some keyboard overlay i made
 
-# Instalation
+# installation
 1. Download the project (it might showup as a virus)
 2. Unzip the files
 3. Ur done
