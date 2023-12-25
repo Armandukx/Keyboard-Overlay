@@ -1,8 +1,8 @@
 # Installation
-1. Download the exe (it might showup as a virus)
-2. Put in in a folder
-3. Open it
-4. Ur done
+1. Download the [zip file](https://github.com/Armandukx/Keyboard-Overlay/raw/main/Keyboard%20Overlay.zip) (it might showup as a virus)
+2. Unzip it
+4. Run the exe file
+5. Ur done
 
 # Images
 <img src="https://github.com/Armandukx/Keyboard-Overlay/blob/main/Images/DaExe.png?raw=true" alt="App Screenshot">
