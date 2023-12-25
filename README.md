@@ -7,7 +7,7 @@ some keyboard overlay i made
 3. Ur done
 
 # Images
-<img src="https://img.shields.io/modrinth/dt/idletweaks?label=downloads&color=informational&logo=Modrinth" alt="downloads">
+<img src="https://github.com/Armandukx/Keyboard-Overlay/blob/main/Images/DaExe.png?raw=true" alt="App Screenshot">
 
 # Setup for OBS
 1. Make a new Window Capture
