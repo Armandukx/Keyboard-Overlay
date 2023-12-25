@@ -26,3 +26,4 @@
 4. Click "Quit"
 
 sup bbg
+<img src="https://i.imgflip.com/74n62t.jpg?a472944" alt="With rizz">
