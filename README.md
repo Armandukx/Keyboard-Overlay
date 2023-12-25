@@ -14,6 +14,11 @@
 4. Select "Window title must match" as the Window Match Priority ⚠️
 5. Click OK
 
+# Important ⚠️
+- Ensure that no open application contains the name "Keyboard Overlay"; otherwise, OBS/Other Software will capture that one and not the actual file.
+- If the application opens and then closes, it means it's updating or has been updated.
+  - If the application does not open after the update, something may have gone wrong. Please reach out to armandukxreal@gmail.com with the error.
+
 # How to exit it
 1. Go to system tray
 2. Find it
