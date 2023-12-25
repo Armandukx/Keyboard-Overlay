@@ -7,7 +7,7 @@
 # Images
 <img src="https://github.com/Armandukx/Keyboard-Overlay/blob/main/Images/DaExe.png?raw=true" alt="App Screenshot">
 
-# Setup for OBS
+# Setup for OBS/Other Software
 1. Make a new Window Capture
 2. Select Keyboard Overlay.exe
 3. Select "Windows 10 (xxxx and up)" as the Capture Method ⚠️
