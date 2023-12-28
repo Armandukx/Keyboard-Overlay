@@ -7,7 +7,10 @@
 5. Ur done
 
 # Images
-<img src="https://github.com/Armandukx/Keyboard-Overlay/blob/main/Images/DaExe.png?raw=true" alt="App Screenshot">
+<img src="https://github.com/Armandukx/Keyboard-Overlay/blob/main/Images/AppImage.png?raw=true" alt="App Screenshot">
+
+# Settings
+1. To go into your settings you can go to the system tray, right click on the app, and click on settings!
 
 # Setup for OBS/Other Software
 1. Make a new Window Capture
